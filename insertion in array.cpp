@@ -26,6 +26,7 @@ void inserationat_begn(){
 	size++;
 	
 }
+//thank you.
 void display(){
 	printf("Display array elements\n");
 	for(int i=0;i<size;i++){
